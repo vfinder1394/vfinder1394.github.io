@@ -1,0 +1,13 @@
+body { margin: 0; background: #C3C0B9; color: #151515; font: 17px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; }
+main { max-width: 760px; margin: 0 auto; padding: 32px 16px 48px; }
+h1 { font-size: 1.9rem; line-height: 1.2; margin: 0 0 .3em; }
+h2 { font-size: 1.05rem; margin: 1.3em 0 .2em; }
+p, ul { margin: .3em 0; }
+ul { padding-left: 1.2em; }
+.tag { display: inline-block; background: #E2471B; color: #fff; font: 600 .8rem/1 ui-monospace, monospace; padding: 6px 10px; letter-spacing: .05em; margin-bottom: 12px; }
+.yt { display: inline-flex; align-items: center; gap: 8px; border: 2px solid #151515; padding: 6px 12px; font-weight: 600; margin: 12px 0; }
+nav { margin-top: 28px; padding-top: 14px; border-top: 2px solid #151515; font-weight: 600; }
+nav a { margin-right: 18px; }
+a { color: #151515; }
+.small { font-size: .9rem; color: #333; }
+hr { border: 0; border-top: 2px solid #151515; margin: 40px 0; }
